@@ -8,7 +8,7 @@ body{
     width: 100%;
     float: left;
     color: rgb(62, 68, 62);
-    background-image: url("../images/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("../image/wallpaperflare.com_wallpaper.jpg");
     background-size: cover;
 }
 .wrapper_profile{
@@ -206,7 +206,7 @@ body{
     text-align: left;
 }
 .footer{
-    background-image: url(../images/wallpaperflare.com_wallpaper.jpg);
+    background-image: url(../image/wallpaperflare.com_wallpaper.jpg);
     background-position-y: center;
     height: 120px;
     float: left;
